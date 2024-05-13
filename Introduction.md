@@ -19,4 +19,4 @@ The use cases for Pocketdb are virtually endless, with some of the most common o
 
 - Collecting email addresses from your website
 - Creating a support form for your app
-- Setting up a form for your app
+- Setting up a form to collect feedback from your users
